@@ -14,6 +14,14 @@ Bounding Boxes Are All We Need: Street View Image Classification via Context Enc
 |baseline:ResNet50|	69.16	|68.94	|69.05|
 * Bulidings bounding bboxs were genarated using [MMDetection](https://github.com/open-mmlab/mmdetection/) with their default hyperparameters and pre-trained models.
 # BEAUTY Dataset 
+[Download BEAUTY Dataset](https://drive.google.com/file/d/15gHUUwbPVD_JEgdYCSWzKMxjOlmRS5qC/view?usp=sharing)
+  
 **BEAUTY(Building dEtection And Urban funcTional-zone portraYing):** A street view image dataset with a dual label system is made based on the exist BIC_GSV dataset.
 
-[Download BEAUTY Dataset](https://drive.google.com/file/d/15gHUUwbPVD_JEgdYCSWzKMxjOlmRS5qC/view?usp=sharing)
+  
+The authors would like to thank the authors of reference [1] for publishing the BIC GSV dataset including city scale GSV images. We would also like to thank Mengshuo Fan and Zhiwei He, the experts in architecture and urban planning from the BIM Research Center, Qingdao Research Institute of Urban and Rural Construction for their professional guidance on manual annotation. Thanks to those who participated in manual annotation for building detection: Yu Ma, Shanshan Lin, Ying Guo and Kaixin Li, and who participated in manual annotation for street view image classification: Ying Zhang, Jiaojie Wang, Shujing Ma and Yue Wang.
+  
+
+ 
+ 
+[1] J. Kang, M. Korner, Y. Wang, H. Taubenb ¨ ock, and X. X. Zhu, “Building ¨ instance classification using street view images,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 145, pp. 44–59, 2018.
