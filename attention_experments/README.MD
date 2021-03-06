@@ -1,3 +1,4 @@
-#Introduction
-1.进行land_use分类时，引入自注意力机制。
+# Introduction
+
+1.进行land_use分类时，引入自注意力机制。  
 2.后缀加_01,表示使用第二种线性自注意力结构。
