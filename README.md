@@ -1,7 +1,7 @@
 # Context-Encoding-of-Detected-Buildings
 Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings
 
-[arxiv](https://arxiv.org/abs/2010.01305)
+[IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/9380541)
 # Introduction 
 1. In this paper, an approach based on a detector-encoder-classifier framework is proposed. Different from common end-to-end models, our approach does not use visual features of the whole image directly. The proposed framework obtains the bounding boxes of buildings in street view images from a detector. Their contextual information such as building classes and positions are then encoded into metadata and finally classified by a recurrent neural network. 
 2. To verify our approach, we made a dataset of 19,070 street view images and 38,857 buildings based on the BIC_GSV dataset through a combination of automatic label acquisition and expert annotation. The dataset can be used not only for street view image classification aiming at urban land use analysis, but also for multi-class building detection. Experiments show that the proposed method achieves significant performance improvement over the models based on end-to-end convolutional neural network. 
@@ -29,6 +29,14 @@ The authors would like to thank the authors of reference [1] for publishing the 
 # Reference:
 
 If you find our work is useful, please kindly cite the following:
+1. Plain Text
+```
+K. Zhao, Y. Liu, S. Hao, S. Lu, H. Liu and L. Zhou, 
+"Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings," 
+in IEEE Transactions on Geoscience and Remote Sensing, 
+doi: 10.1109/TGRS.2021.3064316.
+```
+2. BibTeX
 ```
 @ARTICLE{9380541,  
   author={K. {Zhao} and Y. {Liu} and S. {Hao} and S. {Lu} and H. {Liu} and L. {Zhou}},  
