@@ -25,3 +25,15 @@ The authors would like to thank the authors of reference [1] for publishing the 
  
  
 [1] J. Kang, M. Korner, Y. Wang, H. Taubenb ¨ ock, and X. X. Zhu, “Building ¨ instance classification using street view images,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 145, pp. 44–59, 2018.
+
+# Reference:
+
+If you find our work is useful, please kindly cite the following:
+```
+@ARTICLE{9380541,  
+  author={K. {Zhao} and Y. {Liu} and S. {Hao} and S. {Lu} and H. {Liu} and L. {Zhou}},  
+  journal={IEEE Transactions on Geoscience and Remote Sensing},   
+  title={Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings},   
+  year={2021},  
+  doi={10.1109/TGRS.2021.3064316}}
+```
