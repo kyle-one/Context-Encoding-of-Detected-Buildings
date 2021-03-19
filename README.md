@@ -26,7 +26,7 @@ The authors would like to thank the authors of reference [1] for publishing the 
  
 [1] J. Kang, M. Korner, Y. Wang, H. Taubenb ¨ ock, and X. X. Zhu, “Building ¨ instance classification using street view images,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 145, pp. 44–59, 2018.
 
-# Reference:
+# cite infomation:
 
 If you find our work is useful, please kindly cite the following:
 1. Plain Text
