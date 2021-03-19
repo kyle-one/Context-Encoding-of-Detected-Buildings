@@ -43,5 +43,9 @@ doi: 10.1109/TGRS.2021.3064316.
   journal={IEEE Transactions on Geoscience and Remote Sensing},   
   title={Bounding Boxes Are All We Need: Street View Image Classification via Context Encoding of Detected Buildings},   
   year={2021},  
-  doi={10.1109/TGRS.2021.3064316}}
+  volume={},  
+  number={},  
+  pages={1-17},  
+  doi={10.1109/TGRS.2021.3064316}
+}
 ```
