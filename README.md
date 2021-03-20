@@ -25,7 +25,10 @@ The authors would like to thank the authors of reference [1] for publishing the 
  
  
 [1] J. Kang, M. Korner, Y. Wang, H. Taubenb ¨ ock, and X. X. Zhu, “Building ¨ instance classification using street view images,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 145, pp. 44–59, 2018.
-
+# Experiments and requirement
+All experiments are based on the same hardware and software conditions as follows: GPU: GeForce GTX 1080 × 2; OS: Ubuntu 18.04.3 LTS; CUDA Version: 10.0.130; PyTorch Version: 1.4.0 for cu100; and TorchVision Version: 0.5.0 for cu100.
+ 
+[Get Docker](https://hub.docker.com/r/sterling1982/tgrs2021-cuda10.0)
 # citation:
 
 If you find our work is useful, please kindly cite the following:
