@@ -14,7 +14,7 @@ Bounding Boxes Are All We Need: Street View Image Classification via Context Enc
 |baseline:ResNet50|	69.16	|68.94	|69.05|
 * Bulidings bounding bboxs were genarated using [MMDetection](https://github.com/open-mmlab/mmdetection/) with their default hyperparameters and pre-trained models.
 # BEAUTY Dataset 
-[Download BEAUTY Dataset](https://drive.google.com/file/d/15gHUUwbPVD_JEgdYCSWzKMxjOlmRS5qC/view?usp=sharing)
+[Download BEAUTY Dataset](https://pan.baidu.com/s/1S-tEfY5_-Iuh1nrncGdKqQ?pwd=92eh)
   
 **BEAUTY(Building dEtection And Urban funcTional-zone portraYing):** A street view image dataset with a dual label system is made based on the exist BIC_GSV dataset.
 
